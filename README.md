@@ -1,4 +1,6 @@
 
+<p align="center"> <a href="https://aveygo.github.io">Check out my site!</a> </p>
+
 <p align="center">
   <a href="https://github.com/Aveygo" >
       <img src="https://github-readme-stats.vercel.app/api?username=Aveygo&theme=github_dark">
