@@ -15,10 +15,4 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-* 📖 Computer Science Undergraduate @ [The University of Technology, Sydney](https://www.uts.edu.au/). 
-
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 💻 Currently working on researching language models 
-
 ![](https://hit.yhype.me/github/profile?user_id=48315552)
