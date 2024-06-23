@@ -1,5 +1,10 @@
-<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
-    <defs>
+
+
+<svg width="970px" height="530px" xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace">
+
+    <rect xmlns="http://www.w3.org/2000/svg" width="970px" height="530px" fill="#161b22" rx="15"/>
+
+    <defs> 
         <style type="text/css">
             @font-face {
                 font-family: 'Saitamaar';
@@ -7,27 +12,94 @@
             }
             .aa {
                 font-family: 'Saitamaar';
-                line-height: 18px;
-                font-size: 16px;
+                line-height: 22px;
+                font-size: 18px;
                 white-space: pre;
+                fill: #1f78e5;
+                font-weight: 800;
             }
-        </style>
-    </defs>
-    <text x="10" y="20" class="aa">
-　　　　　 　 ___,,,,,, ____　　　　　　　　　　　
-　　　 　 ,,,zx扞苧苧ミiiｋ、　　　　　　　　
-　　　　ｨ《㌻苧うう戈ｘ汽ミx、　　　　　　　
-　　　  ''》r》㌻'´　　　　''《{》;!　　　　　　　
-　 　 　 《{|  ＿__,　 　＿,,辷j　　　　　　　　
-　　 　 ,,,,]{ﾟ{{¨≦¨升{{lfrl｢ }}}}　　　　　　　
-　　 　 {_{{{,:＼-""＾　ヾ--'}}}|　　　　　　　
-　 　 　 ＼{　　　 ヽr''　　 /′　　　　　　　
-　　　　 　 ∨　 --='''''''　/　　　　　　　　　
-　　　 　 　 }＼、　　 　,ｲ　　　　　　　　　
-　 　　　__,,ﾉ　　``ｰ‐'´ { 　　　　　　　　　
-　　　_,,厶＼_　　　　　　 《ｘx,,,__　　　　　　
-　_／升ミミ＼`＼、　 　 圦ﾐ＼＼ｘ、　　　
-ｨ{㌻ﾟミミﾐXﾐﾐo ヽ｀`ｰ-彡'ﾍﾐ　　＼  %、　
+            .highlight {
+                fill: #0ab8dd;
+                font-size: 20px;
+            }
 
-</text>
+            .header {
+                fill: #1f78e5;
+                font-size: 20px;
+            }
+
+            .sublight {
+                fill: #c9d1d9;
+                font-size: 20px;
+            }
+
+        </style>
+
+        <filter id="crispify">
+            <feComponentTransfer>
+                <feFuncA type="discrete" tableValues="0 1"/>
+            </feComponentTransfer>
+        </filter>
+
+    </defs>
+    <text x="10" y="20" class="aa" filter="url(#crispify)">
+　　　　　　　　　　　　 ___　　　　　　　　　　　　　　
+　　　　　　　,,_,,ｘxx≦云kk廴,,,,__　　　　　　　　　　
+　　　　　 ,ｨ云荻壬ミ彡苧≦荻]{i》-　　　　　　　　
+　　　　 ,,彡乃孑荻荻]荻込苧]]{》}心x、　　　　　
+　　　　'ﾞ《{㏍,,,,,x㌻''''¨¨¨'' ¨ﾟ¨＾ﾟ{㏍{ﾄ､ﾐ　　　　　　
+　　　 　,,》,,,》''ﾟ}'''　　　　　　　　  《{{{ミ;}　　　　　　
+　　　　 '《《{|′　　　　　　　　　　 圦 i!　　　　　　
+　　　　　i》}|ｘi七ｬ'ﾁz=ｘ,,,,,,,,r━━l'}{''fji!　　　　　　
+　　 　 ,r彡{' 〈　 x≦k　}},'''{{f炒'''l　'}i》》　　　　　　
+　　 　 {{ i{]{|　＼_____,ノ' 〉'' ﾟ＼,____,,,}}}}|　　　　　　
+　 　 　 Ⅵ{{{:　　　　　, _ 　_ii　　 　 ,}ﾘ′　　　　　
+　　 　　　＼|　　　　　' ＾'''~!’ 　 　 /　　　　　　　
+　　　　　　　∨　　　 ｡..ｘ≦ｯｧ'' 　 /　　　　　　　　
+　　　　　　　 l|＼　　　　　　　　 /′　　　　　　　　
+　　　　　　　 ,||　＼､　　　 　 ／|　　　　　　　　　
+　　　　 　　 ,,{|　　　 ``ｰ--'´　 {|　　　　　　　　　
+　 　  　,,|弌_　　　　　　　　　 　 ﾟ%ｘ,,_　　　　　　　
+　　 ,,,,,升ミﾐ ＼､_　　　　　　　 　 [{|辷ｘｘ,ｘ,,,,,　　
+_,,ｨ升{{苧ミﾐﾐﾐ、 ｀`'､､　　　　　　  ]{{ﾐ＼ミゞ{ﾟ≧x
+《《{苧{|{|H》》》　＼　､_｀`''､､__　 _／'八＼　　ヾ〉　
+
+ﾟ¨　 ｀＼刈ﾟ》ﾐﾐﾐ ＼ ＼｀'～`¨¨"'' ''  | ゝ　　　 ＼
+
+
+
+    </text>
+    <text>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="50" class="header">Dmitri Shevchenko @ UTS</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="70" class="sublight">-----------</tspan>
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="130" class="highlight">OS</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: NixOS 24.11 (Vicuña)</tspan>
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="150" class="highlight">Kernel</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: University of Technology, Sydney</tspan>
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="170" class="highlight">Uptime</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: 21 Years</tspan>
+
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="210" class="highlight">Fav. Languages</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: Python, Javascript &amp; Rust</tspan>
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="230" class="highlight">Skills</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: Pytorch &amp; Machine Learning</tspan>
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="250" class="highlight">Hobbies</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: Fishing, CSGO &amp; Web Design </tspan>
+
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="310" class="highlight">Stats</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="330" class="sublight">-----------</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="350" class="highlight">[62%] Python </tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="370" class="highlight">[18%] C</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="390" class="highlight">[10%] Javascript</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="410" class="sublight">-----------</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="430" class="highlight">[ 60] Total Stars</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="450" class="highlight">[109] Commits</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="470" class="sublight">-----------</tspan>
+    </text>
 </svg>
