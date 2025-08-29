@@ -573,13 +573,13 @@
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="70" class="sublight">-----------</tspan>
 
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="130" class="highlight">OS</tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: NixOS 24.11 (Vicuña)</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: Arch Linux</tspan>
 
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="150" class="highlight">Kernel</tspan>
         <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: University of Technology, Sydney</tspan>
 
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="170" class="highlight">Uptime</tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: 21 Years</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" class="sublight">: 22 Years</tspan>
 
 
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="210" class="highlight">Fav. Languages</tspan>
