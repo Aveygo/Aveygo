@@ -593,12 +593,12 @@
 
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="310" class="highlight">Stats</tspan>
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="330" class="sublight">-----------</tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="350" class="highlight">[62%] Python </tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="370" class="highlight">[18%] C</tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="390" class="highlight">[10%] Javascript</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="350" class="highlight">[46%] Python </tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="370" class="highlight">[11%] Rust</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="390" class="highlight">[ 6%] C</tspan>
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="410" class="sublight">-----------</tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="430" class="highlight">[ 60] Total Stars</tspan>
-        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="450" class="highlight">[109] Commits</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="430" class="highlight">[ 91] Total Stars</tspan>
+        <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="450" class="highlight">[440] Commits</tspan>
         <tspan xmlns="http://www.w3.org/2000/svg" x="400" y="470" class="sublight">-----------</tspan>
     </text>
 </svg>
